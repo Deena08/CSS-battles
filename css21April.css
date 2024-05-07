@@ -1,0 +1,57 @@
+/*21/4/2024*/
+<div>
+<div class="a"></div>
+<div class="b"></div>
+<div class="c"></div>
+<div class="d"></div>
+<div class="e"></div>
+</div>
+<style>
+  * {
+    background: #301E53;
+  }
+  .a{
+    position:absolute;
+    top:0;
+    left:98px;
+    height:59px;
+    border:20px solid #A6A0BE;
+  }
+  .b{
+    position:absolute;
+    top:0;
+    left:260px;
+    height:59px;
+    border:20px solid #A6A0BE;
+  }
+  .c{
+    position:absolute;
+    left:40;
+    bottom:101px;
+    height:100px;
+    width:98px;
+    border-bottom-right-radius:150px;
+    border-bottom-left-radius:150px;
+    background-color:#A6A0BE;
+  }
+  .d{
+    position:absolute;
+    left:260;
+    bottom:102px;
+    height:100px;
+    width:98px;
+    border-bottom-right-radius:150px;
+    border-bottom-left-radius:150px;
+    background-color:#A6A0BE;
+  }
+  .e{
+    position:absolute;
+    bottom:0;
+    left:181px;
+    height:161px;
+    border-top-left-radius:30px;
+    border-top-right-radius:30px;
+    border:20px solid #766D94;
+  }
+</style>
+

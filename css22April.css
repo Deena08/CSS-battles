@@ -1,0 +1,84 @@
+<div>
+  <div class="a"></div>
+   <div class="b"></div>
+   <div class="c"></div>
+   <div class="d"></div>
+  <div class="hide1"></div>
+  <div class="hide2"></div>
+</div>
+
+<style>
+ *{
+   background-color:#4F77FF;
+ }
+  .a{
+    position:absolute;
+    left:59px;
+    bottom:149px;
+    height:82px;
+    width:82px;
+    border-top-right-radius:300px;
+    border-bottom-right-radius:300px;
+    background-color:#EFF8FE;
+  }
+  .b{
+    position:absolute;
+    left:59px;
+    bottom:68px;
+    height:82px;
+    width:82px;
+    border-top-right-radius:300px;
+    border-bottom-right-radius:300px;
+    background-color:#EFF8FE;
+  }
+  .c{
+    position:absolute;
+    left:161px;
+    bottom:68px;
+    height:122px;
+    width:40px;
+    border:20px solid #EFF8FE;
+    border-top-right-radius:300px;
+    border-top-left-radius:300px;
+    border-bottom-right-radius:300px;
+    border-bottom-left-radius:300px;
+  }
+  .d{
+    position:absolute;
+    left:259px;
+    bottom:68px;
+    height:122px;
+    width:40px;
+    border:20px solid #EFF8FE;
+    border-top-right-radius:300px;
+    border-top-left-radius:300px;
+    border-bottom-right-radius:300px;
+    border-bottom-left-radius:300px;
+  }
+  .hide1{
+    position:absolute;
+    left:59px;
+    bottom:160px;
+    height:50px;
+    width:60px;
+    border-top-right-radius:300px;
+    border-bottom-right-radius:300px;
+  }
+  .hide2{
+    position:absolute;
+    left:59px;
+    bottom:89px;
+    height:50px;
+    width:60px;
+    border-top-right-radius:300px;
+    border-bottom-right-radius:300px;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
